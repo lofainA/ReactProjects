@@ -1,0 +1,37 @@
+body {
+  background-color: rgb(78, 78, 78);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.product-table {
+  background-color: rgb(134, 134, 134);
+  width: fit-content;
+  padding: 25px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.item-input {
+  border: 0;
+  background-color: rgb(165, 165, 165);
+  width: 90%;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.category-row{
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.table {
+  padding: 20px;
+}
+
+table {
+  border: 1px solid rgb(94, 94, 94);
+  border-radius: 10px;
+  margin-top: 15px;
+}
