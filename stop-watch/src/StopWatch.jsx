@@ -52,11 +52,11 @@ export default function StopWatch () {
 
     return(
         <div className="container">
-            <h1>{ formatTime() }</h1>
+            <h1 className="time">{ formatTime() }</h1>
             <div className="buttons">
-                <button onClick={ start }>Start</button>
-                <button onClick={ stop }>Stop</button>
-                <button onClick={ reset }>Reset</button>
+                <button className="start" onClick={ start }>Start</button>
+                <button className="stop" onClick={ stop }>Stop</button>
+                <button className="reset" onClick={ reset }>Reset</button>
             </div>
         </div>
     );
