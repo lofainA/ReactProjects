@@ -8,6 +8,6 @@ The source code can be accesed in the **/src** folder of the respective project 
 
 **Project websites:-**
 
-* [Inventory System](https://animated-kashata-cea181.netlify.app/)
 * [Stopwatch](https://endearing-melba-5f98bb.netlify.app/)
 * [To-do List](https://melodic-marigold-9f67e8.netlify.app/)
+* [Inventory System](https://animated-kashata-cea181.netlify.app/)
